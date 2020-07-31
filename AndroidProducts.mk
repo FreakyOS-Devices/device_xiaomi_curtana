@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/du_curtana.mk
+    $(LOCAL_DIR)/freaky_curtana.mk
 
 COMMON_LUNCH_CHOICES := \
-    du_curtana-user \
-    du_curtana-userdebug \
-    du_curtana-eng
+    freaky_curtana-user \
+    freaky_curtana-userdebug \
+    freaky_curtana-eng
