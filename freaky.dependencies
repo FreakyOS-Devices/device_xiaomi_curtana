@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "CorvusRom-Devices/kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250",
+    "branch": "10",
+    "remote": "github" 
+  },
+  {
+    "repository": "CorvusRom-Devices/vendor_xiaomi_sm6250",
+    "target_path": "vendor/xiaomi",
+    "branch": "10",
+    "remote": "github"
+  },
+  {
+    "repository": "Astile97/android_device_xiaomi_sm6250-common",
+    "target_path": "device/xiaomi/sm6250-common",
+    "branch": "lineage-17.1",
+    "remote": "github"
+  }
+]
